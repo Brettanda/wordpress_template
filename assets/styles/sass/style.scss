@@ -6,13 +6,15 @@ Description: Bretts Theme
 Version: 1.0.0
 */
 
-*{box-sizing: border-box;}
+/*
+*
+*   Variables
+*
+*/
 
-//variables
 $red: rgba(206, 14, 45,1);
 $black: rgba(0, 0, 0,0.9);
 $white: rgb(255,255,255);
-
 
 $breakpoints: (
 	'xs': 500px,
@@ -24,3 +26,11 @@ $breakpoints: (
 
 @import '../mixins/_break';
 @import '../mixins/_transform';
+
+/*
+*
+*   Styles Wide Styles
+*
+*/
+
+*{box-sizing: border-box;}
