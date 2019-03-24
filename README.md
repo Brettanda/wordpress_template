@@ -5,11 +5,14 @@
 ## Modules Used
 - [AnimeJS](https://animejs.com/)
 ## Before Use
+### Composer
 Run 
 ```
 composer install --no-dev
 ```
+### SASS
 To update the styles with sass use this (in the home directory):
 ```
 sass --watch assets/styles/style.scss:style.css
 ```
+Or run the **sass.sh** file in the root dir
