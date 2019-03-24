@@ -6,4 +6,6 @@
 - [AnimeJS](https://animejs.com/)
 ## Before Use
 Run 
-    composer install --no-dev
+```
+composer install --no-dev
+```
