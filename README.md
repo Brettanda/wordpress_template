@@ -9,3 +9,7 @@ Run
 ```
 composer install --no-dev
 ```
+To update the styles with sass use this (in the home directory):
+```
+sass --watch assets/styles/style.scss:style.css
+```
