@@ -28,6 +28,7 @@ add_theme_support( 'custom-logo' );
 function linked_assets(){
 	wp_enqueue_style('theme_styles', get_stylesheet_uri());
 	wp_enqueue_script('theme_script', get_template_directory('scripts/scripts.js'));
+	wp_enqueue_script('animejs', get_template_directory('/assets/modules/anime-master/lib/anime.min.js'))
 	wp_enqueue_style('google-fonts','https://fonts.googleapis.com/css?family=Montserrat');
 }
 add_action('wp_enqueue_scripts','linked_assets');
