@@ -3,4 +3,4 @@
 ## Todo
 - [ ] Test this on a blank Wordpress site
 ## Modules Used
-    1. [AnimeJS](https://animejs.com/)
+    - [AnimeJS](https://animejs.com/)
