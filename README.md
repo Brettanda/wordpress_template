@@ -4,3 +4,6 @@
 - [ ] Test this on a blank Wordpress site
 ## Modules Used
 - [AnimeJS](https://animejs.com/)
+## Before Use
+Run 
+    composer install --no-dev
