@@ -24,8 +24,8 @@ $breakpoints: (
 	'xl': 1500px
 ) !default;
 
-@import '../mixins/_break';
-@import '../mixins/_transform';
+@import 'mixins/_break';
+@import 'mixins/_transform';
 
 /*
 *
