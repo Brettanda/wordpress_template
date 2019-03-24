@@ -3,7 +3,7 @@
 *
 *Table of contents:
 *	1.	Theme Support
-*	2.	loading Sylesheets
+*	2.	loading Assets
 *	3.	Theme Customizer
 *	4.	Navigation Menus
 *	5.	Widgets
@@ -21,7 +21,7 @@ add_theme_support( 'custom-logo' );
 
 /*
 *
-*Load Stylesheets
+*Load Assets
 *
 */
 
