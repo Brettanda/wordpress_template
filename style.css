@@ -19,4 +19,8 @@ Version: 1.0.0
   box-sizing: border-box;
 }
 
+body {
+  font-family: "Montserrat", sans-serif;
+}
+
 /*# sourceMappingURL=style.css.map */
