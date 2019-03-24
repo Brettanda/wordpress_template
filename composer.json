@@ -10,6 +10,9 @@
     "require": {
         "composer/installers": "^1.6"
     },
+    "dependecies": {
+        "juliangarnier/anime/" : "^3.0.1"
+    },
     "config": {
     	"optimize-autoloader": true
     }
