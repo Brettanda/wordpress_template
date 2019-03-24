@@ -29,6 +29,7 @@ function linked_assets(){
 	wp_enqueue_style('theme_styles',get_stylesheet_uri());
 	wp_enqueue_script('theme_script', get_stylesheet_directory_uri() . '/assets/scripts/scripts.js');
 	wp_enqueue_script('animejs', get_stylesheet_directory_uri() . '/assets/modules/anime-master/lib/anime.min.js');
+	// For free fonts go to https://fonts.google.com/
 	wp_enqueue_style('google-fonts','https://fonts.googleapis.com/css?family=Montserrat');
 }
 add_action('wp_enqueue_scripts','linked_assets');
