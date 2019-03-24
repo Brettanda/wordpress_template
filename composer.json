@@ -1,5 +1,5 @@
 {
   "require": {
-    	"facebook/php-sdk": "3.2.*"
+    	"juliangarnier/anime/": "3.0.1"
     }
 }
