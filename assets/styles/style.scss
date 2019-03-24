@@ -24,8 +24,8 @@ $breakpoints: (
 	'xl': 1500px
 ) !default;
 
-@import 'mixins/_break';
-@import 'mixins/_transform';
+@import 'mixins/_break'; // use @inlcude break(sm){font-weight:12pt;}
+@import 'mixins/_transform';// use @include transform(translateX:4rem;)
 
 /*
 *
