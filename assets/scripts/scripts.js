@@ -1,0 +1,1 @@
+console.log("%c Welcome to the console","color:orange;font-weight:bold;text-transform:uppercase;");
