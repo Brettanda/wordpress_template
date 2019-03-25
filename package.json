@@ -5,7 +5,10 @@
     "homepage": "https://brettanda.ca",
     "repository": "brettanda/ba-wp",
     "description": "JavaScript animation engine",
-    "author": "Brett Anda <brettanda12@gmail.com>",  
+    "author": "Brett Anda <brettanda12@gmail.com>",
+    "scripts" : {
+        "start": "sass --watch assets/styles/style.scss:style.css"
+    },
     "dependencies": {
         "animejs": "^3.0.1",
         "normalize.css": "^8.0.0",
