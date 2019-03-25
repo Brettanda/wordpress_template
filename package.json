@@ -1,0 +1,14 @@
+
+{
+    "name": "Brett Anda WordPress Template",
+    "version": "1.0.0",
+    "homepage": "https://brettanda.ca",
+    "repository": "brettanda/ba-wp",
+    "description": "JavaScript animation engine",
+    "author": "Brett Anda <brettanda12@gmail.com>",  
+    "dependencies": {
+        "animejs": "^3.0.1",
+        "normalize.css": "^8.0.0",
+        "rellax": "^1.9.0"
+    }
+  }
