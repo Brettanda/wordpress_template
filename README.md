@@ -4,6 +4,7 @@
 - [ ] Test this on a blank Wordpress site
 ## Modules Used
 - [AnimeJS](https://animejs.com/)
+- [Rellax](https://dixonandmoe.com/rellax/)
 ## Instructions for use
 ### Composer
 Run 
