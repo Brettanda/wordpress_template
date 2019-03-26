@@ -8,16 +8,16 @@
 ## Instructions for use
 ### Starting off
 When starting a project run these:
-Checks for updates on everything needed for the code
+> Checks for updates on everything needed for the code
 ```
 composer update
 ```
-Installs the above updates if there are any
+> Installs the above updates if there are any
 ```
 composer install
 ```
 When you are coming back to edit a project run this:
-Begins the SASS watch command
+> Begins the SASS watch command
 ```
 npm start
 ```
