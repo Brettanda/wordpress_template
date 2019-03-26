@@ -1,12 +1,11 @@
-
 {
-    "name": "Brett Anda WordPress Template",
+    "name": "ba-wp",
     "version": "1.0.0",
     "homepage": "https://brettanda.ca",
     "repository": "brettanda/ba-wp",
     "description": "JavaScript animation engine",
     "author": "Brett Anda <brettanda12@gmail.com>",
-    "scripts" : {
+    "scripts": {
         "start": "sass --watch assets/styles/style.scss:style.css"
     },
     "dependencies": {
@@ -14,4 +13,4 @@
         "normalize.css": "^8.0.0",
         "rellax": "^1.9.0"
     }
-  }
+}
