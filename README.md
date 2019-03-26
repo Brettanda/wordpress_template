@@ -6,17 +6,16 @@
 - [AnimeJS](https://animejs.com/)
 - [Rellax](https://dixonandmoe.com/rellax/)
 ## Instructions for use
-### Composer
-Run 
+### Starting off
+When starting a project run this:
 ```
-composer install --no-dev
+composer update
+composer install
 ```
-### SASS
-To update the styles with sass use this (in the home directory):
+When you are coming back to edit a project run this:
 ```
-sass --watch assets/styles/style.scss:style.css
+npm start
 ```
-Or run the **sass.sh** file in this root directory
 ### Styling Methods
 I am (trying) to use Bem for my SCSS formatting
 ## WordPress
