@@ -17,6 +17,10 @@ composer update
 composer install
 ```
 When you are coming back to edit a project run this:
+> If there are missing packages run this:
+```
+npm install
+```
 > Begins the SASS watch command
 ```
 npm start
