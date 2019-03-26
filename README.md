@@ -9,12 +9,12 @@
 ### Starting off
 When starting a project run this:
 ```
-composer update
-composer install
+composer update # checks for updates on everything needed for the code
+composer install # installs the above updates if there are any
 ```
 When you are coming back to edit a project run this:
 ```
-npm start
+npm start # begins the SASS watch command
 ```
 ### Styling Methods
 I am (trying) to use Bem for my SCSS formatting
