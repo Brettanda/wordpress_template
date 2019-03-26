@@ -1,4 +1,4 @@
-# Wordpress_template
+# BA-WP
 **Author:** [Brett Anda](https://brettanda.ca/about-me/)
 ## Todo
 - [ ] Test this on a blank Wordpress site
