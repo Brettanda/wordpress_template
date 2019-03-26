@@ -7,10 +7,14 @@
 - [Rellax](https://dixonandmoe.com/rellax/)
 ## Instructions for use
 ### Starting off
-When starting a project run this:
+When starting a project run these:
+Checks for updates on everything needed for the code
 ```
-composer update # checks for updates on everything needed for the code
-composer install # installs the above updates if there are any
+composer update
+```
+Installs the above updates if there are any
+```
+composer install
 ```
 When you are coming back to edit a project run this:
 ```
