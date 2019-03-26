@@ -25,7 +25,6 @@ $breakpoints: (
 ) !default;
 
 @import 'mixins/_break'; // use @inlcude break(sm){font-weight:12pt;}
-@import 'mixins/_transform';// use @include transform(translateX:4rem;)
 
 /*
 *
