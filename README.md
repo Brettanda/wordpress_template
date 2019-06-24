@@ -25,6 +25,10 @@ npm install
 ```
 npm start
 ```
+> To clone this into the themes folder use
+```
+git submodule add https://github.com/brettanda/ba-wp-theme brettanda
+```
 ### Styling Methods
 I am (trying) to use Bem for my SCSS formatting
 ## WordPress
