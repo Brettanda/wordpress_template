@@ -1,11 +1,12 @@
 {
-    "name": "ba-wp",
-    "version": "1.0.0",
-    "homepage": "https://brettanda.ca",
-    "repository": "brettanda/ba-wp",
-    "description": "JavaScript animation engine",
-    "author": "Brett Anda <brettanda12@gmail.com>",
-    "scripts": {
+	"name": "ba-wp",
+	"version": "1.0.0",
+	"homepage": "https://brettanda.ca",
+	"repository": "brettanda/ba-wp",
+	"description": "JavaScript animation engine",
+	"author": "Brett Anda <brettanda12@gmail.com>",
+	"license": "MIT",
+	"scripts": {
 		"start": "webpack --watch --mode=development --progress --config=webpack.config.js --colors --hide-modules",
 		"build": "webpack --mode=production --progress --config=webpack.config.js --colors --hide-modules"
 	},
